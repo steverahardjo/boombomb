@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @steverahardjo
+- 👋 Hi, I’m @boombomb
 - 👀 I’m interested in Software dev and Data Science if i could
 - 🌱 I’m currently learning App dev and web dev
 - 💞️ I’m looking to collaborate on ...
